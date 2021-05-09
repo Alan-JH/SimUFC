@@ -1,6 +1,7 @@
 # SimUFC
 UFC design for DCS, based on the F-18C Hornet
 
+Display panels originally designed by [OpenHornet](https://github.com/jrsteensen/OpenHornet) and remixed to use .1" headers and multiplexed digits instead of multiplexed half digits.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
