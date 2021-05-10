@@ -32,6 +32,10 @@ $CMP CustomOptPanel
 D Taken originally from open hornet, custom PCB with SMD LEDs on it
 $ENDCMP
 #
+$CMP Scratchpad
+D Taken originally from open hornet, custom PCB with SMD LEDs on
+$ENDCMP
+#
 $CMP ShiftRegisterBoard
 D An older board with three registers I have designed previously
 $ENDCMP

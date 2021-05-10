@@ -1746,19 +1746,19 @@ Wire Wire Line
 	5800 3000 5800 2900
 Connection ~ 5800 3000
 Text Label 3400 5000 1    50   ~ 0
-SEGH2
+SEGH
 Text Label 3800 5000 1    50   ~ 0
-SEGJ2
+SEGJ
 Text Label 4200 5000 1    50   ~ 0
-SEGK2
+SEGK
 Text Label 4600 5000 1    50   ~ 0
-SEGL2
+SEGL
 Text Label 5000 5000 1    50   ~ 0
-SEGM2
+SEGM
 Text Label 5400 5000 1    50   ~ 0
-SEGN2
+SEGN
 Text Label 5800 5000 1    50   ~ 0
-SEGP2
+SEGP
 Wire Wire Line
 	5400 3000 5400 3450
 Connection ~ 5150 3300
@@ -2044,19 +2044,19 @@ SEGA
 Text Label 7450 1050 1    50   ~ 0
 SEGH
 Text Label 6750 5000 1    50   ~ 0
-SEGH2
+SEGH
 Text Label 6850 5000 1    50   ~ 0
-SEGJ2
+SEGJ
 Text Label 6950 5000 1    50   ~ 0
-SEGK2
+SEGK
 Text Label 7050 5000 1    50   ~ 0
-SEGL2
+SEGL
 Text Label 7150 5000 1    50   ~ 0
-SEGM2
+SEGM
 Text Label 7250 5000 1    50   ~ 0
-SEGN2
+SEGN
 Text Label 7350 5000 1    50   ~ 0
-SEGP2
+SEGP
 Text Label 6750 5650 1    50   ~ 0
 DIG0_2
 Text Label 6850 5650 1    50   ~ 0
@@ -2133,33 +2133,33 @@ DIG3_2
 Text Label 3000 7200 2    50   ~ 0
 DIG4_2
 Text Label 4200 2900 1    50   ~ 0
-SEGC2
+SEGC
 Text Label 3800 2900 1    50   ~ 0
-SEGB2
+SEGB
 Text Label 3400 2900 1    50   ~ 0
-SEGA2
+SEGA
 Text Label 4600 2900 1    50   ~ 0
-SEGD2
+SEGD
 Text Label 5000 2900 1    50   ~ 0
-SEGE2
+SEGE
 Text Label 5400 2900 1    50   ~ 0
-SEGF2
+SEGF
 Text Label 5800 2900 1    50   ~ 0
-SEGG2
+SEGG
 Text Label 3000 3300 2    50   ~ 0
 DIG0_2
 Text Label 7350 2900 1    50   ~ 0
-SEGG2
+SEGG
 Text Label 7250 2900 1    50   ~ 0
-SEGF2
+SEGF
 Text Label 7150 2900 1    50   ~ 0
-SEGE2
+SEGE
 Text Label 6950 2900 1    50   ~ 0
-SEGC2
+SEGC
 Text Label 6850 2900 1    50   ~ 0
-SEGB2
+SEGB
 Text Label 6750 2900 1    50   ~ 0
-SEGA2
+SEGA
 Text Label 7050 2900 1    50   ~ 0
-SEGD2
+SEGD
 $EndSCHEMATC
