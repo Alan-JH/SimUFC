@@ -28,6 +28,10 @@ $CMP 7Segx4ChromeLED
 D SDQC39G2W
 $ENDCMP
 #
+$CMP CommDS
+D Taken originally from open hornet, custom PCB with SMD LEDs on it
+$ENDCMP
+#
 $CMP CustomOptPanel
 D Taken originally from open hornet, custom PCB with SMD LEDs on it
 $ENDCMP
