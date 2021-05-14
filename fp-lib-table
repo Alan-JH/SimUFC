@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name Keypad)(type KiCad)(uri "C:/Users/Alan/Desktop/Kicad projects/Keypad/Keypad.pretty")(options "")(descr ""))
-  (lib (name UFC)(type KiCad)(uri ${KIPRJMOD}/UFC.pretty)(options "")(descr ""))
-)

@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name UFClib)(type Legacy)(uri ${KIPRJMOD}/UFClib.lib)(options "")(descr ""))
-)
