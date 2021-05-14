@@ -20,7 +20,7 @@ P 6400 3950
 AR Path="/608D289D/60CC8AE8" Ref="U?"  Part="1" 
 AR Path="/60CC8AE8" Ref="U2"  Part="1" 
 AR Path="/60CB907D/60CC8AE8" Ref="U3"  Part="1" 
-F 0 "U3" H 6400 1561 50  0000 C CNN
+F 0 "U2" H 6400 1561 50  0000 C CNN
 F 1 "HT1632C-52LQFP" H 6400 1470 50  0000 C CNN
 F 2 "Package_QFP:LQFP-52_14x14mm_P1mm" V 6200 4000 50  0001 C CNN
 F 3 "http://www.holtek.com/documents/10179/116711/HT1632Cv170.pdf" V 6200 4000 50  0001 C CNN
@@ -34,7 +34,7 @@ P 3100 3950
 AR Path="/608D289D/60CC8AEE" Ref="U?"  Part="1" 
 AR Path="/60CC8AEE" Ref="U1"  Part="1" 
 AR Path="/60CB907D/60CC8AEE" Ref="U2"  Part="1" 
-F 0 "U2" H 3100 1561 50  0000 C CNN
+F 0 "U1" H 3100 1561 50  0000 C CNN
 F 1 "HT1632C-52LQFP" H 3100 1470 50  0000 C CNN
 F 2 "Package_QFP:LQFP-52_14x14mm_P1mm" V 2900 4000 50  0001 C CNN
 F 3 "http://www.holtek.com/documents/10179/116711/HT1632Cv170.pdf" V 2900 4000 50  0001 C CNN
@@ -42,64 +42,64 @@ F 3 "http://www.holtek.com/documents/10179/116711/HT1632Cv170.pdf" V 2900 4000 5
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4000 1950 4200 1950
+	4200 3550 4000 3550
 Wire Wire Line
-	4000 2050 4200 2050
+	4200 3450 4000 3450
 Wire Wire Line
-	4000 2150 4200 2150
+	4200 3350 4000 3350
 Wire Wire Line
-	4000 2250 4200 2250
+	4200 3250 4000 3250
 Wire Wire Line
-	4000 2350 4200 2350
+	4200 3150 4000 3150
 Wire Wire Line
-	4000 2450 4200 2450
+	4200 3050 4000 3050
 Wire Wire Line
-	4000 2550 4200 2550
+	4200 2950 4000 2950
 Wire Wire Line
-	4000 2650 4200 2650
+	4200 2850 4000 2850
 Wire Wire Line
-	4000 2750 4200 2750
+	4200 2750 4000 2750
 Wire Wire Line
-	4000 2850 4200 2850
+	4200 2650 4000 2650
 Wire Wire Line
-	4000 2950 4200 2950
+	4200 2550 4000 2550
 Wire Wire Line
-	4000 3050 4200 3050
+	4200 2450 4000 2450
 Wire Wire Line
-	4000 3150 4200 3150
+	4200 2350 4000 2350
 Wire Wire Line
-	4000 3250 4200 3250
+	4200 2250 4000 2250
 Wire Wire Line
-	4000 3350 4200 3350
-Text Label 4050 1950 0    50   ~ 0
+	4200 2150 4000 2150
+Text Label 4150 3550 2    50   ~ 0
 A1
-Text Label 4050 2050 0    50   ~ 0
+Text Label 4150 3450 2    50   ~ 0
 B1
-Text Label 4050 2150 0    50   ~ 0
+Text Label 4150 3350 2    50   ~ 0
 C1
-Text Label 4050 2250 0    50   ~ 0
+Text Label 4150 3250 2    50   ~ 0
 D1
-Text Label 4050 2350 0    50   ~ 0
+Text Label 4150 3150 2    50   ~ 0
 E1
-Text Label 4050 2450 0    50   ~ 0
+Text Label 4150 3050 2    50   ~ 0
 F1
-Text Label 4050 3250 0    50   ~ 0
+Text Label 4150 2250 2    50   ~ 0
 P1
-Text Label 4050 2550 0    50   ~ 0
+Text Label 4150 2950 2    50   ~ 0
 G1
-Text Label 4050 2650 0    50   ~ 0
+Text Label 4150 2850 2    50   ~ 0
 H1
-Text Label 4050 2750 0    50   ~ 0
+Text Label 4150 2750 2    50   ~ 0
 J1
-Text Label 4050 2850 0    50   ~ 0
+Text Label 4150 2650 2    50   ~ 0
 K1
-Text Label 4050 2950 0    50   ~ 0
+Text Label 4150 2550 2    50   ~ 0
 L1
-Text Label 4050 3050 0    50   ~ 0
+Text Label 4150 2450 2    50   ~ 0
 M1
-Text Label 4050 3150 0    50   ~ 0
+Text Label 4150 2350 2    50   ~ 0
 N1
-Text Label 4050 3450 0    50   ~ 0
+Text Label 4150 2050 2    50   ~ 0
 DP1
 Text Label 3800 5950 0    50   ~ 0
 COM0-1
@@ -361,66 +361,6 @@ F 3 "~" H 3900 3350 50  0001 C CNN
 	1    3900 3350
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	7300 1950 7500 1950
-Wire Wire Line
-	7300 2050 7500 2050
-Wire Wire Line
-	7300 2150 7500 2150
-Wire Wire Line
-	7300 2250 7500 2250
-Wire Wire Line
-	7300 2350 7500 2350
-Wire Wire Line
-	7300 2450 7500 2450
-Wire Wire Line
-	7300 2550 7500 2550
-Wire Wire Line
-	7300 2650 7500 2650
-Wire Wire Line
-	7300 2750 7500 2750
-Wire Wire Line
-	7300 2850 7500 2850
-Wire Wire Line
-	7300 2950 7500 2950
-Wire Wire Line
-	7300 3050 7500 3050
-Wire Wire Line
-	7300 3150 7500 3150
-Wire Wire Line
-	7300 3250 7500 3250
-Wire Wire Line
-	7300 3350 7500 3350
-Text Label 7350 1950 0    50   ~ 0
-A2
-Text Label 7350 2050 0    50   ~ 0
-B2
-Text Label 7350 2150 0    50   ~ 0
-C2
-Text Label 7350 2250 0    50   ~ 0
-D2
-Text Label 7350 2350 0    50   ~ 0
-E2
-Text Label 7350 2450 0    50   ~ 0
-F2
-Text Label 7350 3250 0    50   ~ 0
-P2
-Text Label 7350 2550 0    50   ~ 0
-G2
-Text Label 7350 2650 0    50   ~ 0
-H2
-Text Label 7350 2750 0    50   ~ 0
-J2
-Text Label 7350 2850 0    50   ~ 0
-K2
-Text Label 7350 2950 0    50   ~ 0
-L2
-Text Label 7350 3050 0    50   ~ 0
-M2
-Text Label 7350 3150 0    50   ~ 0
-N2
-Text Label 7350 3450 0    50   ~ 0
-DP2
 $Comp
 L Device:R_Small_US R?
 U 1 1 60CC8BF4
@@ -792,16 +732,12 @@ F 3 "~" H 7200 3350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4000 3450 4200 3450
-Wire Wire Line
-	7300 3450 7500 3450
-Text Label 4050 3350 0    50   ~ 0
+	4200 2050 4000 2050
+Text Label 4150 2150 2    50   ~ 0
 Q1
-Text Label 7350 3350 0    50   ~ 0
-Q2
 Wire Wire Line
-	4000 3550 4200 3550
-Text Label 4200 3550 2    50   ~ 0
+	4200 1950 4000 1950
+Text Label 4000 1950 0    50   ~ 0
 DOT1
 $Comp
 L Device:R_Small_US R?
@@ -831,10 +767,6 @@ F 3 "~" H 7200 3550 50  0001 C CNN
 	1    7200 3550
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	7300 3550 7500 3550
-Text Label 7500 3550 2    50   ~ 0
-DOT2
 Text Label 7100 4750 0    50   ~ 0
 COM12-2
 Text Label 3800 5050 0    50   ~ 0
@@ -907,73 +839,39 @@ Wire Wire Line
 	7100 5850 7500 5850
 Wire Wire Line
 	7100 5950 7500 5950
-Text HLabel 7500 1950 2    50   Input ~ 0
-A2
-Text HLabel 7500 2050 2    50   Input ~ 0
-B2
-Text HLabel 7500 2150 2    50   Input ~ 0
-C2
-Text HLabel 7500 2250 2    50   Input ~ 0
-D2
-Text HLabel 7500 2350 2    50   Input ~ 0
-E2
-Text HLabel 7500 2450 2    50   Input ~ 0
-F2
-Text HLabel 7500 2550 2    50   Input ~ 0
-G2
-Text HLabel 7500 2650 2    50   Input ~ 0
-H2
-Text HLabel 7500 2750 2    50   Input ~ 0
-J2
-Text HLabel 7500 2850 2    50   Input ~ 0
-K2
-Text HLabel 7500 2950 2    50   Input ~ 0
-L2
-Text HLabel 7500 3050 2    50   Input ~ 0
-M2
-Text HLabel 7500 3150 2    50   Input ~ 0
-N2
-Text HLabel 7500 3250 2    50   Input ~ 0
-P2
-Text HLabel 7500 3350 2    50   Input ~ 0
-Q2
-Text HLabel 7500 3450 2    50   Input ~ 0
-DP2
-Text HLabel 7500 3550 2    50   Input ~ 0
-DOT2
-Text HLabel 4200 1950 2    50   Input ~ 0
+Text HLabel 4200 3550 2    50   Input ~ 0
 A1
-Text HLabel 4200 2050 2    50   Input ~ 0
+Text HLabel 4200 3450 2    50   Input ~ 0
 B1
-Text HLabel 4200 2150 2    50   Input ~ 0
+Text HLabel 4200 3350 2    50   Input ~ 0
 C1
-Text HLabel 4200 2250 2    50   Input ~ 0
+Text HLabel 4200 3250 2    50   Input ~ 0
 D1
-Text HLabel 4200 2350 2    50   Input ~ 0
+Text HLabel 4200 3150 2    50   Input ~ 0
 E1
-Text HLabel 4200 2450 2    50   Input ~ 0
+Text HLabel 4200 3050 2    50   Input ~ 0
 F1
-Text HLabel 4200 2550 2    50   Input ~ 0
+Text HLabel 4200 2950 2    50   Input ~ 0
 G1
-Text HLabel 4200 2650 2    50   Input ~ 0
+Text HLabel 4200 2850 2    50   Input ~ 0
 H1
 Text HLabel 4200 2750 2    50   Input ~ 0
 J1
-Text HLabel 4200 2850 2    50   Input ~ 0
+Text HLabel 4200 2650 2    50   Input ~ 0
 K1
-Text HLabel 4200 2950 2    50   Input ~ 0
+Text HLabel 4200 2550 2    50   Input ~ 0
 L1
-Text HLabel 4200 3050 2    50   Input ~ 0
+Text HLabel 4200 2450 2    50   Input ~ 0
 M1
-Text HLabel 4200 3150 2    50   Input ~ 0
+Text HLabel 4200 2350 2    50   Input ~ 0
 N1
-Text HLabel 4200 3250 2    50   Input ~ 0
+Text HLabel 4200 2250 2    50   Input ~ 0
 P1
-Text HLabel 4200 3350 2    50   Input ~ 0
+Text HLabel 4200 2150 2    50   Input ~ 0
 Q1
-Text HLabel 4200 3450 2    50   Input ~ 0
+Text HLabel 4200 2050 2    50   Input ~ 0
 DP1
-Text HLabel 4200 3550 2    50   Input ~ 0
+Text HLabel 4200 1950 2    50   Input ~ 0
 DOT1
 Text HLabel 4200 4550 2    50   Input ~ 0
 COM14-1
@@ -1049,7 +947,7 @@ U 1 1 6125D445
 P 9700 3150
 AR Path="/6125D445" Ref="U3"  Part="1" 
 AR Path="/60CB907D/6125D445" Ref="U1"  Part="1" 
-F 0 "U1" H 9700 3325 50  0000 C CNN
+F 0 "U3" H 9700 3325 50  0000 C CNN
 F 1 "STM32F103C8T6" H 9700 3234 50  0000 C CNN
 F 2 "UFC:Bluepill" H 9700 3150 50  0001 C CNN
 F 3 "" H 9700 3150 50  0001 C CNN
@@ -1468,9 +1366,9 @@ Text Label 9200 3200 2    50   ~ 0
 CS1
 Text Label 9200 3300 2    50   ~ 0
 CS2
-Text Label 9200 3400 2    50   ~ 0
-WR
 Text Label 9200 3500 2    50   ~ 0
+WR
+Text Label 9200 3400 2    50   ~ 0
 RD
 Text Label 9200 3600 2    50   ~ 0
 DATA
@@ -1737,39 +1635,39 @@ F 3 "~" H 10400 1750 50  0001 C CNN
 	1    10400 1750
 	1    0    0    -1  
 $EndComp
-Text Label 10600 950  0    50   ~ 0
-DIN1
-Text Label 10600 1050 0    50   ~ 0
-DIN2
-Text Label 10600 1150 0    50   ~ 0
-DIN3
-Text Label 10600 1250 0    50   ~ 0
-DIN4
-Text Label 10600 1350 0    50   ~ 0
-DIN5
 Text Label 10600 1450 0    50   ~ 0
-DIN6
+DIN1
 Text Label 10600 1550 0    50   ~ 0
-DIN7
+DIN2
 Text Label 10600 1650 0    50   ~ 0
-DIN8
+DIN3
 Text Label 10600 1750 0    50   ~ 0
-DIN9
+DIN4
 Text Label 10600 1850 0    50   ~ 0
-DIN10
+DIN5
 Text Label 10600 1950 0    50   ~ 0
-DIN11
+DIN6
 Text Label 10600 2050 0    50   ~ 0
-DIN12
+DIN7
 Text Label 10600 2150 0    50   ~ 0
-DIN13
+DIN8
 Text Label 10600 2250 0    50   ~ 0
-DIN14
+DIN9
 Text Label 10600 2350 0    50   ~ 0
-DIN15
+DIN10
 Text Label 10600 2450 0    50   ~ 0
-DIN16
+DIN11
 Text Label 10600 2550 0    50   ~ 0
+DIN12
+Text Label 10600 1350 0    50   ~ 0
+DIN13
+Text Label 10600 1250 0    50   ~ 0
+DIN14
+Text Label 10600 1150 0    50   ~ 0
+DIN15
+Text Label 10600 1050 0    50   ~ 0
+DIN16
+Text Label 10600 950  0    50   ~ 0
 DIN17
 $Comp
 L Connector:Conn_01x17_Male J6
@@ -2056,4 +1954,187 @@ Wire Wire Line
 	10600 6150 10950 6150
 Text Notes 10350 5200 0    50   ~ 0
 Analog input filtering (optional)
+Text HLabel 7500 3550 2    50   Input ~ 0
+DOT2
+Text HLabel 7500 3450 2    50   Input ~ 0
+DP2
+Text HLabel 7500 3350 2    50   Input ~ 0
+Q2
+Text HLabel 7500 3250 2    50   Input ~ 0
+P2
+Text HLabel 7500 3150 2    50   Input ~ 0
+N2
+Text HLabel 7500 3050 2    50   Input ~ 0
+M2
+Text HLabel 7500 2950 2    50   Input ~ 0
+L2
+Text HLabel 7500 2850 2    50   Input ~ 0
+K2
+Text HLabel 7500 2750 2    50   Input ~ 0
+J2
+Text HLabel 7500 2650 2    50   Input ~ 0
+H2
+Text HLabel 7500 2550 2    50   Input ~ 0
+G2
+Text HLabel 7500 2450 2    50   Input ~ 0
+F2
+Text HLabel 7500 2350 2    50   Input ~ 0
+E2
+Text HLabel 7500 2250 2    50   Input ~ 0
+D2
+Text HLabel 7500 2150 2    50   Input ~ 0
+C2
+Text HLabel 7500 2050 2    50   Input ~ 0
+B2
+Text HLabel 7500 1950 2    50   Input ~ 0
+A2
+Text Label 7500 3550 2    50   ~ 0
+DOT2
+Wire Wire Line
+	7300 3550 7500 3550
+Text Label 7350 3350 0    50   ~ 0
+Q2
+Wire Wire Line
+	7300 3450 7500 3450
+Text Label 7350 3450 0    50   ~ 0
+DP2
+Text Label 7350 3150 0    50   ~ 0
+N2
+Text Label 7350 3050 0    50   ~ 0
+M2
+Text Label 7350 2950 0    50   ~ 0
+L2
+Text Label 7350 2850 0    50   ~ 0
+K2
+Text Label 7350 2750 0    50   ~ 0
+J2
+Text Label 7350 2650 0    50   ~ 0
+H2
+Text Label 7350 2550 0    50   ~ 0
+G2
+Text Label 7350 3250 0    50   ~ 0
+P2
+Text Label 7350 2450 0    50   ~ 0
+F2
+Text Label 7350 2350 0    50   ~ 0
+E2
+Text Label 7350 2250 0    50   ~ 0
+D2
+Text Label 7350 2150 0    50   ~ 0
+C2
+Text Label 7350 2050 0    50   ~ 0
+B2
+Text Label 7350 1950 0    50   ~ 0
+A2
+Wire Wire Line
+	7300 3350 7500 3350
+Wire Wire Line
+	7300 3250 7500 3250
+Wire Wire Line
+	7300 3150 7500 3150
+Wire Wire Line
+	7300 3050 7500 3050
+Wire Wire Line
+	7300 2950 7500 2950
+Wire Wire Line
+	7300 2850 7500 2850
+Wire Wire Line
+	7300 2750 7500 2750
+Wire Wire Line
+	7300 2650 7500 2650
+Wire Wire Line
+	7300 2550 7500 2550
+Wire Wire Line
+	7300 2450 7500 2450
+Wire Wire Line
+	7300 2350 7500 2350
+Wire Wire Line
+	7300 2250 7500 2250
+Wire Wire Line
+	7300 2150 7500 2150
+Wire Wire Line
+	7300 2050 7500 2050
+Wire Wire Line
+	7300 1950 7500 1950
+Text Label 9200 5100 2    50   ~ 0
+3.3V
+$Comp
+L Connector_Generic:Conn_02x17_Odd_Even J18
+U 1 1 60C416E9
+P 3300 7700
+F 0 "J18" H 3350 8717 50  0000 C CNN
+F 1 "Conn_02x17_Odd_Even" H 3350 8626 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x17_P2.54mm_Vertical" H 3300 7700 50  0001 C CNN
+F 3 "~" H 3300 7700 50  0001 C CNN
+	1    3300 7700
+	1    0    0    -1  
+$EndComp
+Text Label 3600 8500 0    50   ~ 0
+COM14-1
+Text Label 3600 6900 0    50   ~ 0
+A1
+Text Label 3600 7000 0    50   ~ 0
+B1
+Text Label 3600 7100 0    50   ~ 0
+C1
+Text Label 3600 7200 0    50   ~ 0
+D1
+Text Label 3600 7500 0    50   ~ 0
+E1
+Text Label 3600 7400 0    50   ~ 0
+F1
+Text Label 3600 7300 0    50   ~ 0
+G1
+Text Label 3600 7600 0    50   ~ 0
+H1
+Text Label 3100 8500 2    50   ~ 0
+COM13-1
+Text Label 3100 6900 2    50   ~ 0
+A1
+Text Label 3100 7000 2    50   ~ 0
+B1
+Text Label 3100 7100 2    50   ~ 0
+C1
+Text Label 3100 7200 2    50   ~ 0
+D1
+Text Label 3100 7500 2    50   ~ 0
+E1
+Text Label 3100 7400 2    50   ~ 0
+F1
+Text Label 3100 7300 2    50   ~ 0
+G1
+Text Label 3100 7600 2    50   ~ 0
+H1
+Text Label 3600 7700 0    50   ~ 0
+J1
+Text Label 3600 7800 0    50   ~ 0
+K1
+Text Label 3600 7900 0    50   ~ 0
+L1
+Text Label 3600 8000 0    50   ~ 0
+M1
+Text Label 3600 8100 0    50   ~ 0
+N1
+Text Label 3600 8200 0    50   ~ 0
+P1
+Text Label 3600 8300 0    50   ~ 0
+Q1
+Text Label 3600 8400 0    50   ~ 0
+DP1
+Text Label 3100 7700 2    50   ~ 0
+J1
+Text Label 3100 7800 2    50   ~ 0
+K1
+Text Label 3100 7900 2    50   ~ 0
+L1
+Text Label 3100 8000 2    50   ~ 0
+M1
+Text Label 3100 8100 2    50   ~ 0
+N1
+Text Label 3100 8200 2    50   ~ 0
+P1
+Text Label 3100 8300 2    50   ~ 0
+Q1
+Text Label 3100 8400 2    50   ~ 0
+DP1
 $EndSCHEMATC
