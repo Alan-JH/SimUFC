@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 14SegDisplayLumex
+D Lumex LDS-F3902RI
+$ENDCMP
+#
+$CMP 14SegDisplayx2
+D Liteon LTP-3784G
+$ENDCMP
+#
+$CMP 14Segx2ChromeLED
+D SDDCN40G2W
+$ENDCMP
+#
+$CMP 7SegDisplayx3
+D Kingbright BC56-11GWA
+$ENDCMP
+#
+$CMP 7SegDisplayx4
+D Kingbright CC56-11GWA
+$ENDCMP
+#
+$CMP 7Segx3ChromeLED
+D SDTC39G2W
+$ENDCMP
+#
+$CMP 7Segx4ChromeLED
+D SDQC39G2W
+$ENDCMP
+#
+$CMP CommDS
+D Taken originally from open hornet, custom PCB with SMD LEDs on it
+$ENDCMP
+#
+$CMP CustomOptPanel
+D Taken originally from open hornet, custom PCB with SMD LEDs on it
+$ENDCMP
+#
+$CMP Scratchpad
+D Taken originally from open hornet, custom PCB with SMD LEDs on
+$ENDCMP
+#
+$CMP ShiftRegisterBoard
+D An older board with three registers I have designed previously
+$ENDCMP
+#
+#End Doc Library
