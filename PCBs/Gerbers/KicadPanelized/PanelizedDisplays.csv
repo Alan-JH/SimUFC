@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**";"0.5mm-NPTH-Drill";55;"0.5mm-NPTH-Drill";;;
+2;"REF**,REF**";"4MM_Stencil_Hole";2;"4MM_Stencil_Hole";;;
+3;"mouse-bite-3mm-slot,mouse-bite-3mm-slot,mouse-bite-3mm-slot,mouse-bite-3mm-slot";"mouse-bite-3mm-slot";4;"VAL**";;;
+4;"mouse-bite-3mm-slot-corner,mouse-bite-3mm-slot-corner,mouse-bite-3mm-slot-corner,mouse-bite-3mm-slot-corner,mouse-bite-3mm-slot-corner,mouse-bite-3mm-slot-corner";"mouse-bite-3mm-slot-corner";6;"VAL**";;;
+5;"mouse-bite-3mm-slot-3way,mouse-bite-3mm-slot-3way,mouse-bite-3mm-slot-3way,mouse-bite-3mm-slot-3way";"mouse-bite-3mm-slot-3way";4;"VAL**";;;
+6;"D10,D16,D14,D13,D2,D6,D4,D11,D8,D1,D12,D9,D5,D3,D15,D7,D24,D26,D23,D22,D28,D29,D27,D30,D31,D25,D32,D17,D19,D21,D20,D18,D11,D4,D13,D10,D12,D9,D5,D7,D15,D6,D16,D8,D14,D3,D2,D1,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86,D87,D88,D89,D90,D91,D92,D93,D94,D95,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66";"LED_0402_1005Metric";177;"LED";;;
+7;"J2,J1";"PinSocket_1x09_P2.54mm_Vertical";2;"Conn_01x09_Male";;;
+8;"J6";"PinSocket_1x05_P2.54mm_Vertical";1;"Conn_01x05_Male";;;
+9;"J5,J3";"PinSocket_1x07_P2.54mm_Vertical";2;"Conn_01x07_Male";;;
+10;"J2";"PinSocket_1x04_P2.54mm_Vertical";1;"Conn_01x04_Male";;;
+11;"J1";"PinSocket_1x08_P2.54mm_Vertical";1;"Conn_01x08_Male";;;
+12;"J4,J3,J2,J1";"PinHeader_1x06_P2.54mm_Vertical";4;"Conn_01x06_Male";;;
+13;"G***";"OH_LOGO_ONLY_11x6mm";1;"OH_LOGO_ONLY_11x6mm";;;
