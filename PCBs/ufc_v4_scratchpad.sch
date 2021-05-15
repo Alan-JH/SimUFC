@@ -1117,7 +1117,7 @@ U 1 1 5FDAD3C0
 P 7050 1250
 F 0 "J1" V 7200 800 50  0000 R CNN
 F 1 "Conn_01x08_Male" V 7100 800 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 7050 1250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 7050 1250 50  0001 C CNN
 F 3 "~" H 7050 1250 50  0001 C CNN
 	1    7050 1250
 	0    -1   -1   0   
@@ -1136,7 +1136,7 @@ U 1 1 5FDF7297
 P 6850 1900
 F 0 "J2" V 7000 1650 50  0000 R CNN
 F 1 "Conn_01x04_Male" V 6900 1650 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 6850 1900 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 6850 1900 50  0001 C CNN
 F 3 "~" H 6850 1900 50  0001 C CNN
 	1    6850 1900
 	0    -1   -1   0   
@@ -2073,7 +2073,7 @@ U 1 1 60D0BA7C
 P 7050 3100
 F 0 "J3" V 7200 2750 50  0000 R CNN
 F 1 "Conn_01x07_Male" V 7100 2750 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7050 3100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 7050 3100 50  0001 C CNN
 F 3 "~" H 7050 3100 50  0001 C CNN
 	1    7050 3100
 	0    -1   -1   0   
@@ -2084,7 +2084,7 @@ U 1 1 60D0D3F0
 P 7050 5200
 F 0 "J5" V 7200 4850 50  0000 R CNN
 F 1 "Conn_01x07_Male" V 7100 4850 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 7050 5200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 7050 5200 50  0001 C CNN
 F 3 "~" H 7050 5200 50  0001 C CNN
 	1    7050 5200
 	0    -1   -1   0   
@@ -2095,7 +2095,7 @@ U 1 1 60D0E2FC
 P 6950 5850
 F 0 "J6" V 7100 5600 50  0000 R CNN
 F 1 "Conn_01x05_Male" V 7000 5600 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical" H 6950 5850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 6950 5850 50  0001 C CNN
 F 3 "~" H 6950 5850 50  0001 C CNN
 	1    6950 5850
 	0    -1   -1   0   
