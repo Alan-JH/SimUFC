@@ -114,7 +114,7 @@
     (visible_elements 7FFFFFDF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
-      (usegerberextensions true)
+      (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
@@ -123,7 +123,7 @@
       (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin true)
+      (useauxorigin false)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
@@ -138,7 +138,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "PanelizeGerberCom/"))
+      (outputdirectory "../Gerbers/Display layers/Com layer 3/"))
   )
 
   (net 0 "")

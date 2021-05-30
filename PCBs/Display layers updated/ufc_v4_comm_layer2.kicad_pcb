@@ -108,7 +108,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers"))
+      (outputdirectory "../Gerbers/Display layers/Com layer 2/"))
   )
 
   (net 0 "")

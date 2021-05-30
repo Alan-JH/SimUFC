@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 3 3
 Title ""
 Date ""
 Rev ""
@@ -1372,122 +1372,10 @@ Text Label 9200 3400 2    50   ~ 0
 RD
 Text Label 9200 3600 2    50   ~ 0
 DATA
-$Comp
-L Connector:Conn_01x09_Male J11
-U 1 1 60A3F5DA
-P 1800 7150
-F 0 "J11" H 1908 7731 50  0000 C CNN
-F 1 "Conn_01x09_Male" H 1908 7640 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical" H 1800 7150 50  0001 C CNN
-F 3 "~" H 1800 7150 50  0001 C CNN
-	1    1800 7150
-	1    0    0    -1  
-$EndComp
-Text Notes 1350 6450 0    50   ~ 0
+Text Notes 2350 7450 0    50   ~ 0
 Left comm\n
-Text Notes 5100 6450 0    50   ~ 0
+Text Notes 3850 7450 0    50   ~ 0
 Right comm
-$Comp
-L Connector:Conn_01x08_Male J10
-U 1 1 60A85603
-P 1150 7150
-F 0 "J10" H 1258 7631 50  0000 C CNN
-F 1 "Conn_01x08_Male" H 1258 7540 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 1150 7150 50  0001 C CNN
-F 3 "~" H 1150 7150 50  0001 C CNN
-	1    1150 7150
-	1    0    0    -1  
-$EndComp
-Text Label 1350 6850 0    50   ~ 0
-J1
-Text Label 1350 6950 0    50   ~ 0
-K1
-Text Label 1350 7050 0    50   ~ 0
-L1
-Text Label 1350 7150 0    50   ~ 0
-M1
-Text Label 1350 7250 0    50   ~ 0
-N1
-Text Label 1350 7350 0    50   ~ 0
-P1
-Text Label 1350 7450 0    50   ~ 0
-Q1
-Text Label 1350 7550 0    50   ~ 0
-DP1
-Text Label 2000 6750 0    50   ~ 0
-COM13-1
-Text Label 2000 6850 0    50   ~ 0
-A1
-Text Label 2000 6950 0    50   ~ 0
-B1
-Text Label 2000 7050 0    50   ~ 0
-C1
-Text Label 2000 7150 0    50   ~ 0
-D1
-Text Label 2000 7250 0    50   ~ 0
-E1
-Text Label 2000 7350 0    50   ~ 0
-F1
-Text Label 2000 7450 0    50   ~ 0
-G1
-Text Label 2000 7550 0    50   ~ 0
-H1
-$Comp
-L Connector:Conn_01x09_Male J13
-U 1 1 60ACB9DE
-P 5500 7150
-F 0 "J13" H 5608 7731 50  0000 C CNN
-F 1 "Conn_01x09_Male" H 5608 7640 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical" H 5500 7150 50  0001 C CNN
-F 3 "~" H 5500 7150 50  0001 C CNN
-	1    5500 7150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x08_Male J12
-U 1 1 60ACB9E4
-P 4850 7150
-F 0 "J12" H 4958 7631 50  0000 C CNN
-F 1 "Conn_01x08_Male" H 4958 7540 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 4850 7150 50  0001 C CNN
-F 3 "~" H 4850 7150 50  0001 C CNN
-	1    4850 7150
-	1    0    0    -1  
-$EndComp
-Text Label 5050 6850 0    50   ~ 0
-J1
-Text Label 5050 6950 0    50   ~ 0
-K1
-Text Label 5050 7050 0    50   ~ 0
-L1
-Text Label 5050 7150 0    50   ~ 0
-M1
-Text Label 5050 7250 0    50   ~ 0
-N1
-Text Label 5050 7350 0    50   ~ 0
-P1
-Text Label 5050 7450 0    50   ~ 0
-Q1
-Text Label 5050 7550 0    50   ~ 0
-DP1
-Text Label 5700 6750 0    50   ~ 0
-COM14-1
-Text Label 5700 6850 0    50   ~ 0
-A1
-Text Label 5700 6950 0    50   ~ 0
-B1
-Text Label 5700 7050 0    50   ~ 0
-C1
-Text Label 5700 7150 0    50   ~ 0
-D1
-Text Label 5700 7250 0    50   ~ 0
-E1
-Text Label 5700 7350 0    50   ~ 0
-F1
-Text Label 5700 7450 0    50   ~ 0
-G1
-Text Label 5700 7550 0    50   ~ 0
-H1
 $Comp
 L Connector:Conn_01x30_Male J9
 U 1 1 60B26A62

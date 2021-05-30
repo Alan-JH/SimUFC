@@ -97,7 +97,7 @@
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
-      (creategerberjobfile false)
+      (creategerberjobfile true)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -118,7 +118,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerber"))
+      (outputdirectory "../Gerbers/Display layers/OPT layer 3/"))
   )
 
   (net 0 "")
