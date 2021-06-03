@@ -3,11 +3,11 @@ UFC design for DCS, based on the F-18C Hornet
 
 Display panels originally designed by [OpenHornet](https://github.com/jrsteensen/OpenHornet) and remixed to use .1" headers and multiplexed digits instead of multiplexed half digits.
 
-Planning to use Holtek HT3216Cs to drive the displays. Board is designed to take Cherry style key switches. I am using Kailh Box Jades, hence the SMD LEDs.
+Displays driven by Holtek HT1632Cs. Board is designed to take Cherry style key switches. I am using Kailh Box Jades, hence the SMD LEDs.
 
-MCU is an STM32 Bluepill.
+Main assembly is two large PCBs stacked, with the back PCB housing the LED drivers and microcontroller. It is designed to also take a shift register PCB of one of my older designs. It will be replaced later on.
 
-Will start MCAD once the PCB gets to relative stability
+Microcontroller is an STM32 Bluepill.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
