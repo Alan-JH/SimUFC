@@ -160,7 +160,7 @@ AR Path="/60CC8B7B" Ref="R1"  Part="1"
 AR Path="/60CB907D/60CC8B7B" Ref="R1"  Part="1" 
 F 0 "R1" V 3950 2050 50  0000 C CNN
 F 1 "510R" V 3950 1850 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 1950 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 1950 50  0001 C CNN
 F 3 "~" H 3900 1950 50  0001 C CNN
 	1    3900 1950
 	0    -1   -1   0   
@@ -174,7 +174,7 @@ AR Path="/60CC8B81" Ref="R2"  Part="1"
 AR Path="/60CB907D/60CC8B81" Ref="R2"  Part="1" 
 F 0 "R2" V 3950 2150 50  0000 C CNN
 F 1 "510R" V 3950 1950 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2050 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2050 50  0001 C CNN
 F 3 "~" H 3900 2050 50  0001 C CNN
 	1    3900 2050
 	0    -1   -1   0   
@@ -188,7 +188,7 @@ AR Path="/60CC8B87" Ref="R3"  Part="1"
 AR Path="/60CB907D/60CC8B87" Ref="R3"  Part="1" 
 F 0 "R3" V 3950 2250 50  0000 C CNN
 F 1 "510R" V 3950 2050 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2150 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2150 50  0001 C CNN
 F 3 "~" H 3900 2150 50  0001 C CNN
 	1    3900 2150
 	0    -1   -1   0   
@@ -202,7 +202,7 @@ AR Path="/60CC8B8D" Ref="R4"  Part="1"
 AR Path="/60CB907D/60CC8B8D" Ref="R4"  Part="1" 
 F 0 "R4" V 3950 2350 50  0000 C CNN
 F 1 "510R" V 3950 2150 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2250 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2250 50  0001 C CNN
 F 3 "~" H 3900 2250 50  0001 C CNN
 	1    3900 2250
 	0    -1   -1   0   
@@ -216,7 +216,7 @@ AR Path="/60CC8B93" Ref="R5"  Part="1"
 AR Path="/60CB907D/60CC8B93" Ref="R5"  Part="1" 
 F 0 "R5" V 3950 2450 50  0000 C CNN
 F 1 "510R" V 3950 2250 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2350 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2350 50  0001 C CNN
 F 3 "~" H 3900 2350 50  0001 C CNN
 	1    3900 2350
 	0    -1   -1   0   
@@ -230,7 +230,7 @@ AR Path="/60CC8B99" Ref="R6"  Part="1"
 AR Path="/60CB907D/60CC8B99" Ref="R6"  Part="1" 
 F 0 "R6" V 3950 2550 50  0000 C CNN
 F 1 "510R" V 3950 2350 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2450 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2450 50  0001 C CNN
 F 3 "~" H 3900 2450 50  0001 C CNN
 	1    3900 2450
 	0    -1   -1   0   
@@ -244,7 +244,7 @@ AR Path="/60CC8B9F" Ref="R7"  Part="1"
 AR Path="/60CB907D/60CC8B9F" Ref="R7"  Part="1" 
 F 0 "R7" V 3950 2650 50  0000 C CNN
 F 1 "510R" V 3950 2450 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2550 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2550 50  0001 C CNN
 F 3 "~" H 3900 2550 50  0001 C CNN
 	1    3900 2550
 	0    -1   -1   0   
@@ -258,7 +258,7 @@ AR Path="/60CC8BA5" Ref="R8"  Part="1"
 AR Path="/60CB907D/60CC8BA5" Ref="R8"  Part="1" 
 F 0 "R8" V 3950 2750 50  0000 C CNN
 F 1 "510R" V 3950 2550 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2650 50  0001 C CNN
 F 3 "~" H 3900 2650 50  0001 C CNN
 	1    3900 2650
 	0    -1   -1   0   
@@ -272,7 +272,7 @@ AR Path="/60CC8BAB" Ref="R9"  Part="1"
 AR Path="/60CB907D/60CC8BAB" Ref="R9"  Part="1" 
 F 0 "R9" V 3950 2850 50  0000 C CNN
 F 1 "510R" V 3950 2650 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2750 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2750 50  0001 C CNN
 F 3 "~" H 3900 2750 50  0001 C CNN
 	1    3900 2750
 	0    -1   -1   0   
@@ -286,7 +286,7 @@ AR Path="/60CC8BB1" Ref="R10"  Part="1"
 AR Path="/60CB907D/60CC8BB1" Ref="R10"  Part="1" 
 F 0 "R10" V 3950 2950 50  0000 C CNN
 F 1 "510R" V 3950 2750 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2850 50  0001 C CNN
 F 3 "~" H 3900 2850 50  0001 C CNN
 	1    3900 2850
 	0    -1   -1   0   
@@ -300,7 +300,7 @@ AR Path="/60CC8BB7" Ref="R11"  Part="1"
 AR Path="/60CB907D/60CC8BB7" Ref="R11"  Part="1" 
 F 0 "R11" V 3950 3050 50  0000 C CNN
 F 1 "510R" V 3950 2850 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 2950 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 2950 50  0001 C CNN
 F 3 "~" H 3900 2950 50  0001 C CNN
 	1    3900 2950
 	0    -1   -1   0   
@@ -314,7 +314,7 @@ AR Path="/60CC8BBD" Ref="R12"  Part="1"
 AR Path="/60CB907D/60CC8BBD" Ref="R12"  Part="1" 
 F 0 "R12" V 3950 3150 50  0000 C CNN
 F 1 "510R" V 3950 2950 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 3050 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 3050 50  0001 C CNN
 F 3 "~" H 3900 3050 50  0001 C CNN
 	1    3900 3050
 	0    -1   -1   0   
@@ -328,7 +328,7 @@ AR Path="/60CC8BC3" Ref="R13"  Part="1"
 AR Path="/60CB907D/60CC8BC3" Ref="R13"  Part="1" 
 F 0 "R13" V 3950 3250 50  0000 C CNN
 F 1 "510R" V 3950 3050 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 3150 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 3150 50  0001 C CNN
 F 3 "~" H 3900 3150 50  0001 C CNN
 	1    3900 3150
 	0    -1   -1   0   
@@ -342,7 +342,7 @@ AR Path="/60CC8BC9" Ref="R14"  Part="1"
 AR Path="/60CB907D/60CC8BC9" Ref="R14"  Part="1" 
 F 0 "R14" V 3950 3350 50  0000 C CNN
 F 1 "510R" V 3950 3150 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 3250 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 3250 50  0001 C CNN
 F 3 "~" H 3900 3250 50  0001 C CNN
 	1    3900 3250
 	0    -1   -1   0   
@@ -356,7 +356,7 @@ AR Path="/60CC8BCF" Ref="R15"  Part="1"
 AR Path="/60CB907D/60CC8BCF" Ref="R15"  Part="1" 
 F 0 "R15" V 3950 3450 50  0000 C CNN
 F 1 "510R" V 3950 3250 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 3350 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 3350 50  0001 C CNN
 F 3 "~" H 3900 3350 50  0001 C CNN
 	1    3900 3350
 	0    -1   -1   0   
@@ -370,7 +370,7 @@ AR Path="/60CC8BF4" Ref="R17"  Part="1"
 AR Path="/60CB907D/60CC8BF4" Ref="R17"  Part="1" 
 F 0 "R17" V 3950 3650 50  0000 C CNN
 F 1 "510R" V 3950 3450 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 3550 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 3550 50  0001 C CNN
 F 3 "~" H 3900 3550 50  0001 C CNN
 	1    3900 3550
 	0    -1   -1   0   
@@ -384,7 +384,7 @@ AR Path="/60CC8BFA" Ref="R18"  Part="1"
 AR Path="/60CB907D/60CC8BFA" Ref="R18"  Part="1" 
 F 0 "R18" V 7250 2050 50  0000 C CNN
 F 1 "510R" V 7250 1850 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 1950 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 1950 50  0001 C CNN
 F 3 "~" H 7200 1950 50  0001 C CNN
 	1    7200 1950
 	0    -1   -1   0   
@@ -398,7 +398,7 @@ AR Path="/60CC8C00" Ref="R19"  Part="1"
 AR Path="/60CB907D/60CC8C00" Ref="R19"  Part="1" 
 F 0 "R19" V 7250 2150 50  0000 C CNN
 F 1 "510R" V 7250 1950 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2050 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2050 50  0001 C CNN
 F 3 "~" H 7200 2050 50  0001 C CNN
 	1    7200 2050
 	0    -1   -1   0   
@@ -412,7 +412,7 @@ AR Path="/60CC8C06" Ref="R20"  Part="1"
 AR Path="/60CB907D/60CC8C06" Ref="R20"  Part="1" 
 F 0 "R20" V 7250 2250 50  0000 C CNN
 F 1 "510R" V 7250 2050 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2150 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2150 50  0001 C CNN
 F 3 "~" H 7200 2150 50  0001 C CNN
 	1    7200 2150
 	0    -1   -1   0   
@@ -426,7 +426,7 @@ AR Path="/60CC8C0C" Ref="R21"  Part="1"
 AR Path="/60CB907D/60CC8C0C" Ref="R21"  Part="1" 
 F 0 "R21" V 7250 2350 50  0000 C CNN
 F 1 "510R" V 7250 2150 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2250 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2250 50  0001 C CNN
 F 3 "~" H 7200 2250 50  0001 C CNN
 	1    7200 2250
 	0    -1   -1   0   
@@ -440,7 +440,7 @@ AR Path="/60CC8C12" Ref="R22"  Part="1"
 AR Path="/60CB907D/60CC8C12" Ref="R22"  Part="1" 
 F 0 "R22" V 7250 2450 50  0000 C CNN
 F 1 "510R" V 7250 2250 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2350 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2350 50  0001 C CNN
 F 3 "~" H 7200 2350 50  0001 C CNN
 	1    7200 2350
 	0    -1   -1   0   
@@ -454,7 +454,7 @@ AR Path="/60CC8C18" Ref="R23"  Part="1"
 AR Path="/60CB907D/60CC8C18" Ref="R23"  Part="1" 
 F 0 "R23" V 7250 2550 50  0000 C CNN
 F 1 "510R" V 7250 2350 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2450 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2450 50  0001 C CNN
 F 3 "~" H 7200 2450 50  0001 C CNN
 	1    7200 2450
 	0    -1   -1   0   
@@ -468,7 +468,7 @@ AR Path="/60CC8C1E" Ref="R24"  Part="1"
 AR Path="/60CB907D/60CC8C1E" Ref="R24"  Part="1" 
 F 0 "R24" V 7250 2650 50  0000 C CNN
 F 1 "510R" V 7250 2450 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2550 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2550 50  0001 C CNN
 F 3 "~" H 7200 2550 50  0001 C CNN
 	1    7200 2550
 	0    -1   -1   0   
@@ -482,7 +482,7 @@ AR Path="/60CC8C24" Ref="R25"  Part="1"
 AR Path="/60CB907D/60CC8C24" Ref="R25"  Part="1" 
 F 0 "R25" V 7250 2750 50  0000 C CNN
 F 1 "510R" V 7250 2550 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2650 50  0001 C CNN
 F 3 "~" H 7200 2650 50  0001 C CNN
 	1    7200 2650
 	0    -1   -1   0   
@@ -496,7 +496,7 @@ AR Path="/60CC8C2A" Ref="R26"  Part="1"
 AR Path="/60CB907D/60CC8C2A" Ref="R26"  Part="1" 
 F 0 "R26" V 7250 2850 50  0000 C CNN
 F 1 "510R" V 7250 2650 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2750 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2750 50  0001 C CNN
 F 3 "~" H 7200 2750 50  0001 C CNN
 	1    7200 2750
 	0    -1   -1   0   
@@ -510,7 +510,7 @@ AR Path="/60CC8C30" Ref="R27"  Part="1"
 AR Path="/60CB907D/60CC8C30" Ref="R27"  Part="1" 
 F 0 "R27" V 7250 2950 50  0000 C CNN
 F 1 "510R" V 7250 2750 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2850 50  0001 C CNN
 F 3 "~" H 7200 2850 50  0001 C CNN
 	1    7200 2850
 	0    -1   -1   0   
@@ -524,7 +524,7 @@ AR Path="/60CC8C36" Ref="R28"  Part="1"
 AR Path="/60CB907D/60CC8C36" Ref="R28"  Part="1" 
 F 0 "R28" V 7250 3050 50  0000 C CNN
 F 1 "510R" V 7250 2850 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 2950 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 2950 50  0001 C CNN
 F 3 "~" H 7200 2950 50  0001 C CNN
 	1    7200 2950
 	0    -1   -1   0   
@@ -538,7 +538,7 @@ AR Path="/60CC8C3C" Ref="R29"  Part="1"
 AR Path="/60CB907D/60CC8C3C" Ref="R29"  Part="1" 
 F 0 "R29" V 7250 3150 50  0000 C CNN
 F 1 "510R" V 7250 2950 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 3050 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 3050 50  0001 C CNN
 F 3 "~" H 7200 3050 50  0001 C CNN
 	1    7200 3050
 	0    -1   -1   0   
@@ -552,7 +552,7 @@ AR Path="/60CC8C42" Ref="R30"  Part="1"
 AR Path="/60CB907D/60CC8C42" Ref="R30"  Part="1" 
 F 0 "R30" V 7250 3250 50  0000 C CNN
 F 1 "510R" V 7250 3050 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 3150 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 3150 50  0001 C CNN
 F 3 "~" H 7200 3150 50  0001 C CNN
 	1    7200 3150
 	0    -1   -1   0   
@@ -566,7 +566,7 @@ AR Path="/60CC8C48" Ref="R31"  Part="1"
 AR Path="/60CB907D/60CC8C48" Ref="R31"  Part="1" 
 F 0 "R31" V 7250 3350 50  0000 C CNN
 F 1 "510R" V 7250 3150 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 3250 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 3250 50  0001 C CNN
 F 3 "~" H 7200 3250 50  0001 C CNN
 	1    7200 3250
 	0    -1   -1   0   
@@ -712,7 +712,7 @@ AR Path="/60CC8C9B" Ref="R16"  Part="1"
 AR Path="/60CB907D/60CC8C9B" Ref="R16"  Part="1" 
 F 0 "R16" V 3950 3550 50  0000 C CNN
 F 1 "510R" V 3950 3350 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 3900 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 3900 3450 50  0001 C CNN
 F 3 "~" H 3900 3450 50  0001 C CNN
 	1    3900 3450
 	0    -1   -1   0   
@@ -726,7 +726,7 @@ AR Path="/60CC8CA1" Ref="R32"  Part="1"
 AR Path="/60CB907D/60CC8CA1" Ref="R32"  Part="1" 
 F 0 "R32" V 7250 3450 50  0000 C CNN
 F 1 "510R" V 7250 3250 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 3350 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 3350 50  0001 C CNN
 F 3 "~" H 7200 3350 50  0001 C CNN
 	1    7200 3350
 	0    -1   -1   0   
@@ -748,7 +748,7 @@ AR Path="/60CC8CAF" Ref="R33"  Part="1"
 AR Path="/60CB907D/60CC8CAF" Ref="R33"  Part="1" 
 F 0 "R33" V 7250 3550 50  0000 C CNN
 F 1 "510R" V 7250 3350 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 3450 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 3450 50  0001 C CNN
 F 3 "~" H 7200 3450 50  0001 C CNN
 	1    7200 3450
 	0    -1   -1   0   
@@ -762,7 +762,7 @@ AR Path="/60CC8CB5" Ref="R34"  Part="1"
 AR Path="/60CB907D/60CC8CB5" Ref="R34"  Part="1" 
 F 0 "R34" V 7250 3650 50  0000 C CNN
 F 1 "510R" V 7250 3450 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 7200 3550 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 7200 3550 50  0001 C CNN
 F 3 "~" H 7200 3550 50  0001 C CNN
 	1    7200 3550
 	0    -1   -1   0   
@@ -981,21 +981,8 @@ Text Label 8250 5500 1    50   ~ 0
 SW23
 Text Label 8150 5500 1    50   ~ 0
 SW24
-Text Label 10400 4700 0    50   ~ 0
+Text Label 11150 4500 0    50   ~ 0
 LEDPWM
-$Comp
-L Device:R_Small_US R35
-U 1 1 6125D469
-P 10300 4700
-AR Path="/6125D469" Ref="R35"  Part="1" 
-AR Path="/60CB907D/6125D469" Ref="R35"  Part="1" 
-F 0 "R35" V 10400 4700 50  0000 C CNN
-F 1 "100R" V 10186 4700 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric" H 10300 4700 50  0001 C CNN
-F 3 "~" H 10300 4700 50  0001 C CNN
-	1    10300 4700
-	0    1    1    0   
-$EndComp
 $Comp
 L Connector:Conn_01x09_Male J1
 U 1 1 6125D46F
@@ -1027,9 +1014,7 @@ Wire Wire Line
 	9200 4500 8950 4500
 Wire Wire Line
 	9200 4400 8950 4400
-Wire Wire Line
-	10400 4700 10700 4700
-Text HLabel 10700 4700 2    50   Input ~ 0
+Text HLabel 11450 4500 2    50   Input ~ 0
 LEDPWM
 Text HLabel 8950 4500 0    50   Input ~ 0
 ROW3
@@ -1468,14 +1453,10 @@ Text Label 10200 4100 0    50   ~ 0
 Analog6
 Text Label 10200 4000 0    50   ~ 0
 Analog7
-Text Label 9200 4000 2    50   ~ 0
-DigInt1
-Text Label 9200 3900 2    50   ~ 0
-DigInt2
 Text Label 9200 3800 2    50   ~ 0
-DigInt3
+DigInt1
 Text Label 9200 3700 2    50   ~ 0
-DigInt4
+DigInt2
 Text Label 9100 750  1    50   ~ 0
 GND
 Text Label 8850 1200 2    50   ~ 0
@@ -1602,118 +1583,84 @@ Text Label 11300 2450 0    50   ~ 0
 GND
 Text Label 11300 2550 0    50   ~ 0
 GND
-$Comp
-L Connector:Conn_01x04_Male J8
-U 1 1 60DADE95
-P 10500 2900
-F 0 "J8" H 10608 3181 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 10608 3090 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 10500 2900 50  0001 C CNN
-F 3 "~" H 10500 2900 50  0001 C CNN
-	1    10500 2900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x04_Male J17
-U 1 1 60DAEEA9
-P 11200 2900
-F 0 "J17" H 11308 3181 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 11308 3090 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 11200 2900 50  0001 C CNN
-F 3 "~" H 11200 2900 50  0001 C CNN
-	1    11200 2900
-	1    0    0    -1  
-$EndComp
-Text Label 10700 2800 0    50   ~ 0
-DigInt1
-Text Label 10700 2900 0    50   ~ 0
-DigInt2
-Text Label 10700 3000 0    50   ~ 0
-DigInt3
-Text Label 10700 3100 0    50   ~ 0
-DigInt4
-Text Label 11400 2800 0    50   ~ 0
+Text Label 11100 2900 0    50   ~ 0
 GND
-Text Label 11400 2900 0    50   ~ 0
-GND
-Text Label 11400 3000 0    50   ~ 0
-GND
-Text Label 11400 3100 0    50   ~ 0
+Text Label 11100 3000 0    50   ~ 0
 GND
 $Comp
 L Connector:Conn_01x07_Male J14
 U 1 1 60E0E0E7
-P 10900 3900
-F 0 "J14" H 11008 4381 50  0000 C CNN
-F 1 "Conn_01x07_Male" H 11008 4290 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10900 3900 50  0001 C CNN
-F 3 "~" H 10900 3900 50  0001 C CNN
-	1    10900 3900
+P 10950 3550
+F 0 "J14" H 11058 4031 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 11058 3940 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10950 3550 50  0001 C CNN
+F 3 "~" H 10950 3550 50  0001 C CNN
+	1    10950 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x07_Male J15
 U 1 1 60E0F8D9
-P 11450 3900
-F 0 "J15" H 11558 4381 50  0000 C CNN
-F 1 "Conn_01x07_Male" H 11558 4290 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 11450 3900 50  0001 C CNN
-F 3 "~" H 11450 3900 50  0001 C CNN
-	1    11450 3900
+P 11500 3550
+F 0 "J15" H 11608 4031 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 11608 3940 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 11500 3550 50  0001 C CNN
+F 3 "~" H 11500 3550 50  0001 C CNN
+	1    11500 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x07_Male J16
 U 1 1 60E1F3DE
-P 11950 3900
-F 0 "J16" H 12058 4381 50  0000 C CNN
-F 1 "Conn_01x07_Male" H 12058 4290 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 11950 3900 50  0001 C CNN
-F 3 "~" H 11950 3900 50  0001 C CNN
-	1    11950 3900
+P 12000 3550
+F 0 "J16" H 12108 4031 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 12108 3940 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 12000 3550 50  0001 C CNN
+F 3 "~" H 12000 3550 50  0001 C CNN
+	1    12000 3550
 	1    0    0    -1  
 $EndComp
-Text Label 11100 3600 0    50   ~ 0
+Text Label 11150 3250 0    50   ~ 0
 Analog1
-Text Label 11100 3700 0    50   ~ 0
+Text Label 11150 3350 0    50   ~ 0
 Analog2
-Text Label 11100 3800 0    50   ~ 0
+Text Label 11150 3450 0    50   ~ 0
 Analog3
-Text Label 11100 3900 0    50   ~ 0
+Text Label 11150 3550 0    50   ~ 0
 Analog4
-Text Label 11100 4000 0    50   ~ 0
+Text Label 11150 3650 0    50   ~ 0
 Analog5
-Text Label 11100 4100 0    50   ~ 0
+Text Label 11150 3750 0    50   ~ 0
 Analog6
-Text Label 11100 4200 0    50   ~ 0
+Text Label 11150 3850 0    50   ~ 0
 Analog7
-Text Label 11650 3600 0    50   ~ 0
+Text Label 11700 3250 0    50   ~ 0
 GND
-Text Label 11650 3700 0    50   ~ 0
+Text Label 11700 3350 0    50   ~ 0
 GND
-Text Label 11650 3800 0    50   ~ 0
+Text Label 11700 3450 0    50   ~ 0
 GND
-Text Label 11650 3900 0    50   ~ 0
+Text Label 11700 3550 0    50   ~ 0
 GND
-Text Label 11650 4000 0    50   ~ 0
+Text Label 11700 3650 0    50   ~ 0
 GND
-Text Label 11650 4100 0    50   ~ 0
+Text Label 11700 3750 0    50   ~ 0
 GND
-Text Label 11650 4200 0    50   ~ 0
+Text Label 11700 3850 0    50   ~ 0
 GND
-Text Label 12150 3600 0    50   ~ 0
+Text Label 12200 3250 0    50   ~ 0
 3.3V
-Text Label 12150 3700 0    50   ~ 0
+Text Label 12200 3350 0    50   ~ 0
 3.3V
-Text Label 12150 3800 0    50   ~ 0
+Text Label 12200 3450 0    50   ~ 0
 3.3V
-Text Label 12150 3900 0    50   ~ 0
+Text Label 12200 3550 0    50   ~ 0
 3.3V
-Text Label 12150 4000 0    50   ~ 0
+Text Label 12200 3650 0    50   ~ 0
 3.3V
-Text Label 12150 4100 0    50   ~ 0
+Text Label 12200 3750 0    50   ~ 0
 3.3V
-Text Label 12150 4200 0    50   ~ 0
+Text Label 12200 3850 0    50   ~ 0
 3.3V
 Text Notes 10250 700  0    50   ~ 0
 Break out unused input pins, with ground
@@ -2025,4 +1972,106 @@ Text Label 3100 8300 2    50   ~ 0
 Q1
 Text Label 3100 8400 2    50   ~ 0
 DP1
+NoConn ~ 9200 3900
+NoConn ~ 9200 4000
+$Comp
+L Connector:Conn_01x02_Male J8
+U 1 1 60C4B228
+P 10150 2900
+F 0 "J8" H 10258 3081 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 10258 2990 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10150 2900 50  0001 C CNN
+F 3 "~" H 10150 2900 50  0001 C CNN
+	1    10150 2900
+	1    0    0    -1  
+$EndComp
+Text Label 10350 3000 0    50   ~ 0
+DigInt2
+Text Label 10350 2900 0    50   ~ 0
+DigInt1
+Wire Wire Line
+	10300 5100 10300 5200
+Wire Wire Line
+	10300 5200 9000 5200
+Wire Wire Line
+	9000 5200 9000 4900
+Wire Wire Line
+	9000 4900 9200 4900
+Text Label 10700 4900 0    50   ~ 0
+5V
+Text Notes 11500 4850 0    50   ~ 0
+P Channel mosfet for LED control\nIdeally Vgs around 1.5-2V, with low RDSon\nOr just use analog control with pot and current limiting resistor
+$Comp
+L Device:R_Small_US R35
+U 1 1 60CAD7D0
+P 10900 4500
+F 0 "R35" V 10695 4500 50  0000 C CNN
+F 1 "20R" V 10786 4500 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10900 4500 50  0001 C CNN
+F 3 "~" H 10900 4500 50  0001 C CNN
+	1    10900 4500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	11000 4500 11050 4500
+$Comp
+L Device:R_Small_US R36
+U 1 1 60CD2B90
+P 10300 4700
+F 0 "R36" V 10095 4700 50  0000 C CNN
+F 1 "100R" V 10186 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10300 4700 50  0001 C CNN
+F 3 "~" H 10300 4700 50  0001 C CNN
+	1    10300 4700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10700 4500 10750 4500
+Wire Wire Line
+	10700 5100 10700 4900
+Wire Wire Line
+	10300 5100 10700 5100
+$Comp
+L Connector:Conn_01x02_Male J17
+U 1 1 60D6BD85
+P 10900 2900
+F 0 "J17" H 11008 3081 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 11008 2990 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10900 2900 50  0001 C CNN
+F 3 "~" H 10900 2900 50  0001 C CNN
+	1    10900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Open JP1
+U 1 1 60C47DC2
+P 10900 4150
+F 0 "JP1" H 10900 4355 50  0000 C CNN
+F 1 "R35 Bypass" H 10900 4264 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 10900 4150 50  0001 C CNN
+F 3 "~" H 10900 4150 50  0001 C CNN
+	1    10900 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10750 4150 10750 4500
+Connection ~ 10750 4500
+Wire Wire Line
+	10750 4500 10800 4500
+Wire Wire Line
+	11050 4150 11050 4500
+Connection ~ 11050 4500
+Wire Wire Line
+	11050 4500 11450 4500
+$Comp
+L Transistor_FET:IRF4905 Q1
+U 1 1 60CE45B5
+P 10600 4700
+F 0 "Q1" H 10805 4746 50  0000 L CNN
+F 1 "IPP120P04P4L03" H 10805 4655 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 10800 4625 50  0001 L CIN
+F 3 "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c" H 10600 4700 50  0001 L CNN
+	1    10600 4700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

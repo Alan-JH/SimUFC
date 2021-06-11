@@ -981,21 +981,8 @@ Text Label 8250 5500 1    50   ~ 0
 SW23
 Text Label 8150 5500 1    50   ~ 0
 SW24
-Text Label 10400 4700 0    50   ~ 0
+Text Label 11150 4500 0    50   ~ 0
 LEDPWM
-$Comp
-L Device:R_Small_US R35
-U 1 1 6125D469
-P 10300 4700
-AR Path="/6125D469" Ref="R35"  Part="1" 
-AR Path="/60CB907D/6125D469" Ref="R35"  Part="1" 
-F 0 "R35" V 10400 4700 50  0000 C CNN
-F 1 "100R" V 10186 4700 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10300 4700 50  0001 C CNN
-F 3 "~" H 10300 4700 50  0001 C CNN
-	1    10300 4700
-	0    1    1    0   
-$EndComp
 $Comp
 L Connector:Conn_01x09_Male J1
 U 1 1 6125D46F
@@ -1027,9 +1014,7 @@ Wire Wire Line
 	9200 4500 8950 4500
 Wire Wire Line
 	9200 4400 8950 4400
-Wire Wire Line
-	10400 4700 10700 4700
-Text HLabel 10700 4700 2    50   Input ~ 0
+Text HLabel 11450 4500 2    50   Input ~ 0
 LEDPWM
 Text HLabel 8950 4500 0    50   Input ~ 0
 ROW3
@@ -1468,14 +1453,10 @@ Text Label 10200 4100 0    50   ~ 0
 Analog6
 Text Label 10200 4000 0    50   ~ 0
 Analog7
-Text Label 9200 4000 2    50   ~ 0
-DigInt1
-Text Label 9200 3900 2    50   ~ 0
-DigInt2
 Text Label 9200 3800 2    50   ~ 0
-DigInt3
+DigInt1
 Text Label 9200 3700 2    50   ~ 0
-DigInt4
+DigInt2
 Text Label 9100 750  1    50   ~ 0
 GND
 Text Label 8850 1200 2    50   ~ 0
@@ -1602,118 +1583,84 @@ Text Label 11300 2450 0    50   ~ 0
 GND
 Text Label 11300 2550 0    50   ~ 0
 GND
-$Comp
-L Connector:Conn_01x04_Male J8
-U 1 1 60DADE95
-P 10500 2900
-F 0 "J8" H 10608 3181 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 10608 3090 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 10500 2900 50  0001 C CNN
-F 3 "~" H 10500 2900 50  0001 C CNN
-	1    10500 2900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x04_Male J17
-U 1 1 60DAEEA9
-P 11200 2900
-F 0 "J17" H 11308 3181 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 11308 3090 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 11200 2900 50  0001 C CNN
-F 3 "~" H 11200 2900 50  0001 C CNN
-	1    11200 2900
-	1    0    0    -1  
-$EndComp
-Text Label 10700 2800 0    50   ~ 0
-DigInt1
-Text Label 10700 2900 0    50   ~ 0
-DigInt2
-Text Label 10700 3000 0    50   ~ 0
-DigInt3
-Text Label 10700 3100 0    50   ~ 0
-DigInt4
-Text Label 11400 2800 0    50   ~ 0
+Text Label 11100 2900 0    50   ~ 0
 GND
-Text Label 11400 2900 0    50   ~ 0
-GND
-Text Label 11400 3000 0    50   ~ 0
-GND
-Text Label 11400 3100 0    50   ~ 0
+Text Label 11100 3000 0    50   ~ 0
 GND
 $Comp
 L Connector:Conn_01x07_Male J14
 U 1 1 60E0E0E7
-P 10900 3900
-F 0 "J14" H 11008 4381 50  0000 C CNN
-F 1 "Conn_01x07_Male" H 11008 4290 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10900 3900 50  0001 C CNN
-F 3 "~" H 10900 3900 50  0001 C CNN
-	1    10900 3900
+P 10950 3550
+F 0 "J14" H 11058 4031 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 11058 3940 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 10950 3550 50  0001 C CNN
+F 3 "~" H 10950 3550 50  0001 C CNN
+	1    10950 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x07_Male J15
 U 1 1 60E0F8D9
-P 11450 3900
-F 0 "J15" H 11558 4381 50  0000 C CNN
-F 1 "Conn_01x07_Male" H 11558 4290 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 11450 3900 50  0001 C CNN
-F 3 "~" H 11450 3900 50  0001 C CNN
-	1    11450 3900
+P 11500 3550
+F 0 "J15" H 11608 4031 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 11608 3940 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 11500 3550 50  0001 C CNN
+F 3 "~" H 11500 3550 50  0001 C CNN
+	1    11500 3550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x07_Male J16
 U 1 1 60E1F3DE
-P 11950 3900
-F 0 "J16" H 12058 4381 50  0000 C CNN
-F 1 "Conn_01x07_Male" H 12058 4290 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 11950 3900 50  0001 C CNN
-F 3 "~" H 11950 3900 50  0001 C CNN
-	1    11950 3900
+P 12000 3550
+F 0 "J16" H 12108 4031 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 12108 3940 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" H 12000 3550 50  0001 C CNN
+F 3 "~" H 12000 3550 50  0001 C CNN
+	1    12000 3550
 	1    0    0    -1  
 $EndComp
-Text Label 11100 3600 0    50   ~ 0
+Text Label 11150 3250 0    50   ~ 0
 Analog1
-Text Label 11100 3700 0    50   ~ 0
+Text Label 11150 3350 0    50   ~ 0
 Analog2
-Text Label 11100 3800 0    50   ~ 0
+Text Label 11150 3450 0    50   ~ 0
 Analog3
-Text Label 11100 3900 0    50   ~ 0
+Text Label 11150 3550 0    50   ~ 0
 Analog4
-Text Label 11100 4000 0    50   ~ 0
+Text Label 11150 3650 0    50   ~ 0
 Analog5
-Text Label 11100 4100 0    50   ~ 0
+Text Label 11150 3750 0    50   ~ 0
 Analog6
-Text Label 11100 4200 0    50   ~ 0
+Text Label 11150 3850 0    50   ~ 0
 Analog7
-Text Label 11650 3600 0    50   ~ 0
+Text Label 11700 3250 0    50   ~ 0
 GND
-Text Label 11650 3700 0    50   ~ 0
+Text Label 11700 3350 0    50   ~ 0
 GND
-Text Label 11650 3800 0    50   ~ 0
+Text Label 11700 3450 0    50   ~ 0
 GND
-Text Label 11650 3900 0    50   ~ 0
+Text Label 11700 3550 0    50   ~ 0
 GND
-Text Label 11650 4000 0    50   ~ 0
+Text Label 11700 3650 0    50   ~ 0
 GND
-Text Label 11650 4100 0    50   ~ 0
+Text Label 11700 3750 0    50   ~ 0
 GND
-Text Label 11650 4200 0    50   ~ 0
+Text Label 11700 3850 0    50   ~ 0
 GND
-Text Label 12150 3600 0    50   ~ 0
+Text Label 12200 3250 0    50   ~ 0
 3.3V
-Text Label 12150 3700 0    50   ~ 0
+Text Label 12200 3350 0    50   ~ 0
 3.3V
-Text Label 12150 3800 0    50   ~ 0
+Text Label 12200 3450 0    50   ~ 0
 3.3V
-Text Label 12150 3900 0    50   ~ 0
+Text Label 12200 3550 0    50   ~ 0
 3.3V
-Text Label 12150 4000 0    50   ~ 0
+Text Label 12200 3650 0    50   ~ 0
 3.3V
-Text Label 12150 4100 0    50   ~ 0
+Text Label 12200 3750 0    50   ~ 0
 3.3V
-Text Label 12150 4200 0    50   ~ 0
+Text Label 12200 3850 0    50   ~ 0
 3.3V
 Text Notes 10250 700  0    50   ~ 0
 Break out unused input pins, with ground
@@ -2025,4 +1972,106 @@ Text Label 3100 8300 2    50   ~ 0
 Q1
 Text Label 3100 8400 2    50   ~ 0
 DP1
+NoConn ~ 9200 3900
+NoConn ~ 9200 4000
+$Comp
+L Connector:Conn_01x02_Male J8
+U 1 1 60C4B228
+P 10150 2900
+F 0 "J8" H 10258 3081 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 10258 2990 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10150 2900 50  0001 C CNN
+F 3 "~" H 10150 2900 50  0001 C CNN
+	1    10150 2900
+	1    0    0    -1  
+$EndComp
+Text Label 10350 3000 0    50   ~ 0
+DigInt2
+Text Label 10350 2900 0    50   ~ 0
+DigInt1
+Wire Wire Line
+	10300 5100 10300 5200
+Wire Wire Line
+	10300 5200 9000 5200
+Wire Wire Line
+	9000 5200 9000 4900
+Wire Wire Line
+	9000 4900 9200 4900
+Text Label 10700 4900 0    50   ~ 0
+5V
+Text Notes 11500 4850 0    50   ~ 0
+P Channel mosfet for LED control\nIdeally Vgs around 1.5-2V, with low RDSon\nOr just use analog control with pot and current limiting resistor
+$Comp
+L Device:R_Small_US R35
+U 1 1 60CAD7D0
+P 10900 4500
+F 0 "R35" V 10695 4500 50  0000 C CNN
+F 1 "20R" V 10786 4500 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10900 4500 50  0001 C CNN
+F 3 "~" H 10900 4500 50  0001 C CNN
+	1    10900 4500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	11000 4500 11050 4500
+$Comp
+L Device:R_Small_US R36
+U 1 1 60CD2B90
+P 10300 4700
+F 0 "R36" V 10250 4700 50  0000 C CNN
+F 1 "100R" V 10400 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10300 4700 50  0001 C CNN
+F 3 "~" H 10300 4700 50  0001 C CNN
+	1    10300 4700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10700 4500 10750 4500
+Wire Wire Line
+	10700 5100 10700 4900
+Wire Wire Line
+	10300 5100 10700 5100
+$Comp
+L Connector:Conn_01x02_Male J17
+U 1 1 60D6BD85
+P 10900 2900
+F 0 "J17" H 11008 3081 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 11008 2990 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 10900 2900 50  0001 C CNN
+F 3 "~" H 10900 2900 50  0001 C CNN
+	1    10900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Open JP1
+U 1 1 60C47DC2
+P 10900 4150
+F 0 "JP1" H 10900 4355 50  0000 C CNN
+F 1 "R35 Bypass" H 10900 4264 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 10900 4150 50  0001 C CNN
+F 3 "~" H 10900 4150 50  0001 C CNN
+	1    10900 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10750 4150 10750 4500
+Connection ~ 10750 4500
+Wire Wire Line
+	10750 4500 10800 4500
+Wire Wire Line
+	11050 4150 11050 4500
+Connection ~ 11050 4500
+Wire Wire Line
+	11050 4500 11450 4500
+$Comp
+L Transistor_FET:IRF4905 Q1
+U 1 1 60CE45B5
+P 10600 4700
+F 0 "Q1" H 10805 4746 50  0000 L CNN
+F 1 "IPP120P04P4L03" H 10805 4655 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 10800 4625 50  0001 L CIN
+F 3 "http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c" H 10600 4700 50  0001 L CNN
+	1    10600 4700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
