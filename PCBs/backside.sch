@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 3 3
 Title ""
 Date ""
 Rev ""
@@ -1727,7 +1727,7 @@ ROW1
 Text Label 7900 4500 2    50   ~ 0
 SRCS2
 Text Label 7900 4600 2    50   ~ 0
-SRCS3
+SRMISO2
 Text Label 7900 3900 2    50   ~ 0
 DigInt4
 Text Label 7900 3800 2    50   ~ 0
@@ -2256,13 +2256,13 @@ LEDPWM
 Text Label 5600 6850 0    50   ~ 0
 LEDPWM
 Text Label 5600 6950 0    50   ~ 0
-SRCS3
-Text Label 4450 6950 0    50   ~ 0
 SRCS2
+Text Label 4450 6950 0    50   ~ 0
+SRCS
 Text Label 4450 7050 0    50   ~ 0
-SRMISO
+DSIN
 Text Label 5600 7050 0    50   ~ 0
-SRMISO
+SRMISO2
 Text Label 5600 7150 0    50   ~ 0
 SRCLK
 Text Label 4450 7150 0    50   ~ 0

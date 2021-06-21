@@ -1729,9 +1729,9 @@ SRCS2
 Text Label 7900 4600 2    50   ~ 0
 SRCS3
 Text Label 7900 3900 2    50   ~ 0
-DigInt3
-Text Label 7900 3800 2    50   ~ 0
 DigInt4
+Text Label 7900 3800 2    50   ~ 0
+DigInt3
 Text Label 6850 3700 2    50   ~ 0
 A2
 $Comp
